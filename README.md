@@ -21,7 +21,7 @@
 ## 🧰 Tools & Platforms
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman" />
 </p>
 
 <p>
@@ -29,25 +29,70 @@
   <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
 </p>
 
+## 🎨 Design & Documentation Skills
+
+<p>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Docs-4285F4?style=for-the-badge&logo=googledocs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+</p>
+
+- 🖌️ **Canva editing:** posters, banners, social media graphics, and presentations
+- 📄 **Documentation:** project READMEs, technical write-ups, reports, and notes
+
 ## 🚀 Featured Projects
 
-| Project | Description | Tech | Links |
-|---|---|---|---|
-| **QuizForge** | Quiz and form builder: paste your content, choose an option format, and get a ready-to-share quiz with auto-scoring | HTML, CSS, JavaScript, Node.js | [Live](https://quizforge-bov7.onrender.com/) · [Code](https://github.com/YOUR_USERNAME/quizforge) |
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://quizforge-bov7.onrender.com/">
+        <img src="https://raw.githubusercontent.com/YOUR_USERNAME/quizforge/main/screenshot.png" alt="QuizForge preview" width="100%" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📝 QuizForge</h3>
+      <p><i>Paste content. Pick a format. Get a quiz.</i></p>
+      <p>
+        A quiz and form builder that turns pasted text into a ready-to-share quiz, with custom option formats and auto-scoring.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black" />
+      </p>
+      <p>
+        <a href="https://quizforge-bov7.onrender.com/"><img src="https://img.shields.io/badge/🌐_Live_Demo-2ea44f?style=for-the-badge" /></a>
+        <a href="https://github.com/YOUR_USERNAME/quizforge"><img src="https://img.shields.io/badge/💻_Source_Code-181717?style=for-the-badge&logo=github" /></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
-### 📝 QuizForge highlights
+<details>
+<summary><b>✨ See QuizForge features</b></summary>
+<br>
+
 - ⚡ Generates quizzes from pasted content in seconds
-- 🔤 Supports custom option formats (A/B/C/D, 1/2/3/4, etc.)
+- 🔤 Custom option formats (A/B/C/D, 1/2/3/4, etc.)
 - ✅ Auto-scoring with result charts
 - 🔗 Instant sharing through a link
-- ☁️ Deployed on Render
 
-> ℹ️ The live demo runs on a free plan, so the first load may take up to a minute.
+</details>
+
+> ⏳ The demo runs on a free plan, so the first load may take up to a minute.
 
 ## 🌱 Currently
 - 🔭 Building full-stack web projects like QuizForge
 - 🤖 Exploring AI tools like Antigravity for web development
 - 🚢 Deploying projects on Vercel and Render
+- 🎨 Designing graphics in Canva and documenting my projects
 
 ## 📫 Reach me
-[LinkedIn](https://www.linkedin.com/in/dhinesh-kumar-417232363) · [Email](mailto:dhineshdk0805@gmail.com)
+
+<p>
+  <a href="https://www.linkedin.com/in/dhinesh-kumar-417232363">LinkedIn</a> ·
+  <a href="mailto:dhineshdk0805@gmail.com">Email</a>
+</p>
