@@ -47,7 +47,7 @@
   <tr>
     <td width="50%" align="center">
       <a href="https://quizforge-bov7.onrender.com/">
-        <img src="https://raw.githubusercontent.com/YOUR_USERNAME/quizforge/main/screenshot.png" alt="QuizForge preview" width="100%" />
+        <img src="https://raw.githubusercontent.com/Dhinesh555-dk/quizforge/main/screenshot.png" alt="QuizForge preview" width="100%" />
       </a>
     </td>
     <td width="50%" valign="top">
@@ -65,7 +65,7 @@
       </p>
       <p>
         <a href="https://quizforge-bov7.onrender.com/"><img src="https://img.shields.io/badge/🌐_Live_Demo-2ea44f?style=for-the-badge" /></a>
-        <a href="https://github.com/YOUR_USERNAME/quizforge"><img src="https://img.shields.io/badge/💻_Source_Code-181717?style=for-the-badge&logo=github" /></a>
+        <a href="https://github.com/Dhinesh555-dk/quizforge"><img src="https://img.shields.io/badge/💻_Source_Code-181717?style=for-the-badge&logo=github" /></a>
       </p>
     </td>
   </tr>
@@ -83,6 +83,42 @@
 </details>
 
 > ⏳ The demo runs on a free plan, so the first load may take up to a minute.
+
+## 🏆 Achievements
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="certificates/invide-silver.png" alt="INVIDE 2026 Silver Award" width="100%" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>🥈 Silver Award, INVIDE 2026</h3>
+      <p><i>International Virtual Expo of Innovation and System Design</i> · Universiti Malaysia Perlis · 20 May 2026</p>
+      <p>Presented <b>Smart Study AI</b> with my team and won the Silver Award at an international expo.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img src="certificates/neurohack-finalist.png" alt="NeuroHACK National Finalist" width="100%" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏅 National Finalist, NeuroHACK</h3>
+      <p><i>Shaastra 2026, IIT Madras</i> · 6 Jan 2026</p>
+      <p>Qualified as a national finalist with team <b>Byte Blazers</b>.</p>
+    </td>
+  </tr>
+</table>
+
+<details>
+<summary><b>📜 More hackathons & events I've participated in</b></summary>
+<br>
+
+- 🎯 **K Hacks 3.0**: Anna University, Chennai
+- 🌿 **Avinya 2026, Prakriti EcoInnovate Challenge**: IIT Guwahati
+- 💡 **Ideathon 2026**: NIT Delhi
+- ⚙️ **GRASP Hackathon 2026**: KRUU x ASME India
+
+</details>
 
 ## 🌱 Currently
 - 🔭 Building full-stack web projects like QuizForge
